@@ -1,12 +1,12 @@
-**Table of Contents**
-  - Introduction
-  - Project Key-points
-  - Project Learnings
-  - Conclusions
+# Table of Contents
+  * [Introduction](#Introduction)
+  * [Project Key-points](##Project-key-points)
+  * [Project Learnings](##﻿Project-Learnings)
+  * [Conclusions](##Conclusions)
   
-**Introduction**
+## Introduction
   This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
-**Project key-points** 
+## Project key-points
   - Data Collection
   - Data Cleaning
   - Data Wrangling
@@ -15,13 +15,13 @@
   - Dashboard design
   - Sharing insights etc.
 
-**﻿Project Learnings**
+## ﻿Project Learnings
   - Created interactive dashboard to track and analyze online sales data
   - Used complex parameters to drill down in worksheet and customization using filters and slicers
   - Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
   - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.)
 
-**Conclusions**
+## Conclusions
 1. Clothing category covers almost 63% of the total market.
 2. Harivansh is the Top Purchasing Customer and has spent almost 10,000 INR in the market, followed by Madhav and Madan Mohan.
 3. Maximum Profit earned by Maharashtra State followed by Madhya Pradesh.
